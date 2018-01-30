@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# dataset folder
+keras/catdog/dataset
+
+# models
+keras/catdog/model.h5
